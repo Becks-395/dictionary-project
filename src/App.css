@@ -1,3 +1,19 @@
+body {
+  background: #f9f8fe;
+}
+
+a {
+  color: #7c83fd;
+}
+
+.App-header {
+  font-size: 30px;
+  font-weight: bold;
+  color: #7c83fd;
+  text-align: center;
+  margin: 30px 0;
+}
+
 .App-footer {
   text-align: center;
   margin: 30px 0;
